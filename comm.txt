@@ -3,3 +3,6 @@ git init
 git add .
 
 git commit -m "name"
+
+
+git added for new branch
